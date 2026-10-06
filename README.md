@@ -577,7 +577,7 @@ npm run dev
 </p>
 
 <p>
-  Once both services are running, open the GameStore application in your browser.
+  Once both services are running, open the Open News application in your browser.
 </p>
 
 ---
@@ -714,7 +714,7 @@ Status:  Functional
 </p>
 
 <p>
-  To contribute to GameStore:
+  To contribute to Open News:
 </p>
 
 <ol>
@@ -760,7 +760,7 @@ git push origin feature/your-feature
 
 ---
 
-<h2 align="center">🎮 GameStore</h2>
+<h2 align="center">🎮 Open News</h2>
 
 <p align="center">
   Built with PHP, MySQL and a custom MVC framework.
