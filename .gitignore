@@ -1,0 +1,6 @@
+node_modules
+.env
+.env.host
+docs/git.md
+open-news.zip
+
