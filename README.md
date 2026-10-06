@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">GameStore</h1>
+<h1 align="center" style="font-weight: bold;">Open News</h1>
 
 <p align="center">
   <a href="#about">About</a> •
